@@ -6,9 +6,24 @@ repo: uptime # Your Github repository name
 sites:
   - name: GitLab
     url: https://git.remote.sx
-  - name: gbe0
+  - name: gbe0 Website
     url: https://www.gbe0.com
-
+  - name: cp01.remote.sx
+    url: https://cp01.remote.sx
+  - name: cp02.remote.sx
+    url: https://cp02.remote.sx
+  - name: dns01.remote.sx
+    url: https://dns01.remote.sx
+  - name: dns02.remote.sx
+    url: https://dns02.remote.sx
+  - name: vpn-au.remote.sx
+    url: https://vpn-au.remote.sx
+  - name: vpn-uk.remote.sx
+    url: https://vpn-uk.remote.sx
+  - name: vpn-sg.remote.sx
+    url: https://vpn-sg.remote.sx
+  - name: ipsec.remote.sx
+    url: https://ipsec.remote.sx
 
 status-website:
   cname: uptime.gbe0.com

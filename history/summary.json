@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/dns01.remote.sx",
     "slug": "dns01-remote-sx",
     "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
     "time": 891,
     "timeDay": 891,
     "timeWeek": 891,
     "timeMonth": 891,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2020-12-30": 7
+      "2020-12-30": 8
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/dns02.remote.sx",
     "slug": "dns02-remote-sx",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-30": 7
+      "2020-12-30": 8
     }
   },
   {
@@ -189,11 +189,11 @@
     "icon": "https://favicons.githubusercontent.com/sysadminblog.net",
     "slug": "sysadminblog-net",
     "status": "down",
-    "uptime": "51.97%",
-    "uptimeDay": "51.97%",
-    "uptimeWeek": "51.97%",
-    "uptimeMonth": "51.97%",
-    "uptimeYear": "51.97%",
+    "uptime": "34.26%",
+    "uptimeDay": "34.26%",
+    "uptimeWeek": "34.26%",
+    "uptimeMonth": "34.26%",
+    "uptimeYear": "34.26%",
     "time": 7931,
     "timeDay": 7931,
     "timeWeek": 7931,

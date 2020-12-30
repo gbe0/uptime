@@ -1,0 +1,31 @@
+---
+
+# Docker compose VS Code development file
+version: '3.6'
+
+services:
+
+  ## VS Code container
+  uptime-vscode:
+    build:
+      context: ./docker
+      args:
+        ## Configure the settings for the VS Code user that will be created inside the container
+        ## These should match the settings for the account you run VS Code as
+        UID: 1000
+        GID: 1000
+    container_name: uptime-vscode
+    restart: "no"
+    volumes:
+      ## Mount the workspace files into /uptime
+      - ..:/uptime
+      ## Mount a volume containing the VS code extensions to prevent having to install them each rebuild
+      ## A volume will be created for both VS Code and VS Code Insiders edition
+      - uptime-ext:/home/vscode/.vscode-server
+      - uptime-ext-insiders:/home/vscode/.vscode-server-insiders
+    tty: true
+
+## Define the named volumes that are used for the above services
+volumes:
+  uptime-ext:
+  uptime-ext-insiders:

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// Disable telemetry
+		"telemetry.enableTelemetry": false,
+		// Set JDK path for sonarlint
+		"sonarlint.ls.javaHome": "/usr/lib/jvm/java-11-openjdk-amd64"
+	}
+}

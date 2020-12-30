@@ -4,9 +4,9 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: GitLab
+  - name: git.remote.sx
     url: https://git.remote.sx
-  - name: gbe0 Website
+  - name: gbe0.com
     url: https://www.gbe0.com
   - name: cp01.remote.sx
     url: https://cp01.remote.sx
@@ -24,6 +24,10 @@ sites:
     url: https://vpn-sg.remote.sx
   - name: ipsec.remote.sx
     url: https://ipsec.remote.sx
+  - name: sysadminblog.net
+    url: https://sysadminblog.net
+  - name: remote.sx
+    url: https://remote.sx
 
 status-website:
   cname: uptime.gbe0.com

@@ -13,9 +13,9 @@ sites:
   - name: cp02.remote.sx
     url: https://cp02.remote.sx
   - name: dns01.remote.sx
-    url: https://dns01.remote.sx
+    url: https://dns01.remote.sx:2087
   - name: dns02.remote.sx
-    url: https://dns02.remote.sx
+    url: https://dns02.remote.sx:2087
   - name: vpn-au.remote.sx
     url: https://vpn-au.remote.sx
   - name: vpn-uk.remote.sx
@@ -25,7 +25,7 @@ sites:
   - name: ipsec.remote.sx
     url: https://ipsec.remote.sx
   - name: sysadminblog.net
-    url: https://sysadminblog.net
+    url: https://www.sysadminblog.net
   - name: remote.sx
     url: https://remote.sx
 

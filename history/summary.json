@@ -141,19 +141,19 @@
     "url": "https://vpn-uk.remote.sx",
     "icon": "https://favicons.githubusercontent.com/vpn-uk.remote.sx",
     "slug": "vpn-uk-remote-sx",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.91%",
-    "time": 411,
-    "timeDay": 368,
-    "timeWeek": 382,
-    "timeMonth": 357,
-    "timeYear": 411,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.89%",
+    "time": 414,
+    "timeDay": 448,
+    "timeWeek": 401,
+    "timeMonth": 363,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2021-02-05": 1,
+      "2021-02-05": 11,
       "2021-01-11": 49
     }
   },
@@ -180,9 +180,9 @@
     "url": "https://ipsec.remote.sx",
     "icon": "https://favicons.githubusercontent.com/ipsec.remote.sx",
     "slug": "ipsec-remote-sx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,7 +191,9 @@
     "timeWeek": 767,
     "timeMonth": 748,
     "timeYear": 762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "sysadminblog.net",
@@ -210,7 +212,7 @@
     "timeMonth": 3914,
     "timeYear": 3944,
     "dailyMinutesDown": {
-      "2021-02-05": 864,
+      "2021-02-05": 875,
       "2021-02-04": 1440,
       "2021-02-03": 1440,
       "2021-02-02": 1440,

@@ -4,10 +4,10 @@
     "url": "https://git.remote.sx",
     "icon": "https://favicons.githubusercontent.com/git.remote.sx",
     "slug": "git-remote-sx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1452,
@@ -15,7 +15,9 @@
     "timeWeek": 1779,
     "timeMonth": 1618,
     "timeYear": 1452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 1
+    }
   },
   {
     "name": "gbe0.com",
@@ -61,10 +63,10 @@
     "url": "https://cp02.remote.sx",
     "icon": "https://favicons.githubusercontent.com/cp02.remote.sx",
     "slug": "cp02-remote-sx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
@@ -72,7 +74,9 @@
     "timeWeek": 852,
     "timeMonth": 832,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 1
+    }
   },
   {
     "name": "dns01.remote.sx",
@@ -80,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/dns01.remote.sx",
     "slug": "dns01-remote-sx",
     "status": "up",
-    "uptime": "95.30%",
+    "uptime": "95.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.30%",
+    "uptimeYear": "95.31%",
     "time": 964,
     "timeDay": 870,
     "timeWeek": 863,
@@ -105,11 +109,11 @@
     "icon": "https://favicons.githubusercontent.com/dns02.remote.sx",
     "slug": "dns02-remote-sx",
     "status": "up",
-    "uptime": "97.27%",
+    "uptime": "97.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.28%",
     "time": 1516,
     "timeDay": 1519,
     "timeWeek": 1487,
@@ -186,9 +190,9 @@
     "url": "https://ipsec.remote.sx",
     "icon": "https://favicons.githubusercontent.com/ipsec.remote.sx",
     "slug": "ipsec-remote-sx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +201,9 @@
     "timeWeek": 799,
     "timeMonth": 740,
     "timeYear": 754,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   },
   {
     "name": "sysadminblog.net",
@@ -216,7 +222,7 @@
     "timeMonth": 4022,
     "timeYear": 3981,
     "dailyMinutesDown": {
-      "2021-03-11": 52,
+      "2021-03-11": 354,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
       "2021-03-08": 1440,

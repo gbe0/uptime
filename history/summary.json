@@ -4,19 +4,19 @@
     "url": "https://git.remote.sx",
     "icon": "https://favicons.githubusercontent.com/git.remote.sx",
     "slug": "git-remote-sx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1452,
-    "timeDay": 1711,
-    "timeWeek": 1779,
-    "timeMonth": 1618,
-    "timeYear": 1452,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1459,
+    "timeDay": 1877,
+    "timeWeek": 1812,
+    "timeMonth": 1633,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2021-03-11": 1
+      "2021-03-11": 13
     }
   },
   {
@@ -63,19 +63,19 @@
     "url": "https://cp02.remote.sx",
     "icon": "https://favicons.githubusercontent.com/cp02.remote.sx",
     "slug": "cp02-remote-sx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 887,
-    "timeWeek": 852,
-    "timeMonth": 832,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 820,
+    "timeDay": 901,
+    "timeWeek": 860,
+    "timeMonth": 835,
+    "timeYear": 820,
     "dailyMinutesDown": {
-      "2021-03-11": 1
+      "2021-03-11": 12
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "https://ipsec.remote.sx",
     "icon": "https://favicons.githubusercontent.com/ipsec.remote.sx",
     "slug": "ipsec-remote-sx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 806,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 755,
+    "timeDay": 805,
     "timeWeek": 799,
-    "timeMonth": 740,
-    "timeYear": 754,
+    "timeMonth": 742,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2021-03-11": 0
+      "2021-03-11": 12
     }
   },
   {
@@ -222,7 +222,7 @@
     "timeMonth": 4022,
     "timeYear": 3981,
     "dailyMinutesDown": {
-      "2021-03-11": 354,
+      "2021-03-11": 367,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
       "2021-03-08": 1440,

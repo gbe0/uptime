@@ -110,18 +110,18 @@
     "icon": "https://favicons.githubusercontent.com/dns02.remote.sx",
     "slug": "dns02-remote-sx",
     "status": "down",
-    "uptime": "67.88%",
+    "uptime": "67.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.88%",
+    "uptimeYear": "67.86%",
     "time": 1462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2021-07-04": 506,
+      "2021-07-04": 572,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
@@ -251,9 +251,9 @@
     "url": "https://ipsec.remote.sx",
     "icon": "https://favicons.githubusercontent.com/ipsec.remote.sx",
     "slug": "ipsec-remote-sx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -262,7 +262,9 @@
     "timeWeek": 604,
     "timeMonth": 619,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-04": 0
+    }
   },
   {
     "name": "sysadminblog.net",
@@ -281,7 +283,7 @@
     "timeMonth": 2596,
     "timeYear": 3669,
     "dailyMinutesDown": {
-      "2021-07-04": 430,
+      "2021-07-04": 496,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,

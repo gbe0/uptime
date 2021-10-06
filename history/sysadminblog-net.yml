@@ -1,7 +1,7 @@
 url: https://www.sysadminblog.net
-status: up
-code: 200
-responseTime: 2290
-lastUpdated: 2021-10-06T01:09:03.910Z
+status: down
+code: 500
+responseTime: 2425
+lastUpdated: 2021-10-06T02:08:20.107Z
 startTime: Wed Dec 30 2020 15:25:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

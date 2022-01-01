@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1311,
-    "timeDay": 1088,
-    "timeWeek": 1170,
-    "timeMonth": 1136,
-    "timeYear": 1312,
+    "timeDay": 1265,
+    "timeWeek": 1140,
+    "timeMonth": 1145,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2021-11-23": 24,
       "2021-09-24": 19,
@@ -35,11 +35,11 @@
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
-    "time": 824,
-    "timeDay": 914,
-    "timeWeek": 783,
-    "timeMonth": 813,
-    "timeYear": 824,
+    "time": 823,
+    "timeDay": 520,
+    "timeWeek": 811,
+    "timeMonth": 798,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2021-12-29": 122,
       "2021-04-25": 32
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 779,
-    "timeDay": 726,
-    "timeWeek": 728,
-    "timeMonth": 707,
-    "timeYear": 778,
+    "timeDay": 753,
+    "timeWeek": 713,
+    "timeMonth": 711,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2021-03-10": 60,
       "2021-02-12": 32
@@ -78,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
-    "timeDay": 595,
-    "timeWeek": 724,
-    "timeMonth": 666,
-    "timeYear": 725,
+    "timeDay": 725,
+    "timeWeek": 696,
+    "timeMonth": 672,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2021-08-16": 17
     }
@@ -92,7 +92,7 @@
     "icon": "https://favicons.githubusercontent.com/dns01.remote.sx",
     "slug": "dns01-remote-sx",
     "status": "down",
-    "uptime": "65.42%",
+    "uptime": "65.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -101,9 +101,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1078,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2021-12-31": 71,
+      "2022-01-01": 72,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -230,8 +231,7 @@
       "2021-08-28": 64,
       "2021-01-28": 442,
       "2021-01-27": 1440,
-      "2021-01-26": 121,
-      "2021-01-01": 805
+      "2021-01-26": 121
     }
   },
   {
@@ -240,7 +240,7 @@
     "icon": "https://favicons.githubusercontent.com/dns02.remote.sx",
     "slug": "dns02-remote-sx",
     "status": "down",
-    "uptime": "34.50%",
+    "uptime": "34.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -249,9 +249,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1463,
+    "timeYear": 1462,
     "dailyMinutesDown": {
-      "2021-12-31": 71,
+      "2022-01-01": 72,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -489,8 +490,7 @@
       "2021-05-10": 1440,
       "2021-05-09": 1440,
       "2021-05-08": 1440,
-      "2021-05-07": 558,
-      "2021-01-01": 805
+      "2021-05-07": 558
     }
   },
   {
@@ -508,7 +508,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 777,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2021-03-10": 59
     }
@@ -519,18 +519,19 @@
     "icon": "https://favicons.githubusercontent.com/vpn-uk.remote.sx",
     "slug": "vpn-uk-remote-sx",
     "status": "down",
-    "uptime": "74.74%",
+    "uptime": "74.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.71%",
+    "uptimeYear": "74.44%",
     "time": 402,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 400,
+    "timeYear": 399,
     "dailyMinutesDown": {
-      "2021-12-31": 71,
+      "2022-01-01": 72,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -643,7 +644,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 693,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2021-03-05": 26
     }
@@ -654,18 +655,19 @@
     "icon": "https://favicons.githubusercontent.com/ipsec.remote.sx",
     "slug": "ipsec-remote-sx",
     "status": "down",
-    "uptime": "50.84%",
+    "uptime": "50.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.78%",
+    "uptimeYear": "50.51%",
     "time": 704,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 701,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2021-12-31": 71,
+      "2022-01-01": 72,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -860,12 +862,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.22%",
     "time": 3169,
-    "timeDay": 2171,
-    "timeWeek": 2757,
-    "timeMonth": 2596,
-    "timeYear": 3162,
+    "timeDay": 3381,
+    "timeWeek": 2750,
+    "timeMonth": 2584,
+    "timeYear": 3153,
     "dailyMinutesDown": {
-      "2021-12-31": 71,
+      "2022-01-01": 72,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -1228,8 +1231,7 @@
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
-      "2021-01-02": 1440,
-      "2021-01-01": 1440
+      "2021-01-02": 1440
     }
   },
   {
@@ -1244,10 +1246,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 670,
-    "timeWeek": 842,
-    "timeMonth": 763,
-    "timeYear": 805,
+    "timeDay": 800,
+    "timeWeek": 838,
+    "timeMonth": 762,
+    "timeYear": 804,
     "dailyMinutesDown": {}
   }
 ]

@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2022-02-17": 849,
+      "2022-02-17": 868,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2022-02-17": 849,
+      "2022-02-17": 868,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -621,7 +621,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-02-17": 850,
+      "2022-02-17": 868,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -803,7 +803,7 @@
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2022-02-17": 850,
+      "2022-02-17": 868,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -1051,7 +1051,7 @@
     "timeMonth": 2467,
     "timeYear": 2964,
     "dailyMinutesDown": {
-      "2022-02-17": 850,
+      "2022-02-17": 868,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -1423,19 +1423,19 @@
     "url": "https://remote.sx",
     "icon": "https://favicons.githubusercontent.com/remote.sx",
     "slug": "remote-sx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 406,
-    "timeWeek": 311,
-    "timeMonth": 453,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 776,
+    "timeDay": 448,
+    "timeWeek": 338,
+    "timeMonth": 457,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2022-02-17": 19
+      "2022-02-17": 37
     }
   }
 ]

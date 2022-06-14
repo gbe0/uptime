@@ -1,45 +1,46 @@
-# Change these first
-owner: gbe0 # Your GitHub username
-repo: uptime # Your Github repository name
+owner: gbe0
+repo: uptime
 
-# Add your sites here
 sites:
-  - name: git.remote.sx
-    url: https://git.remote.sx
+  ## Servers
+  - name: GitLab
+    url: $CHECK_GITLAB
+  - name: cPanel Server 1
+    url: $CHECK_CPANEL_01
+  - name: cPanel Server 2
+    url: $CHECK_CPANEL_02
+  - name: Docker Server 1
+    url: $CHECK_DOCKER_01
+  ## VPN servers
+  - name: VPN - Singapore, SG
+    url: $CHECK_VPN_SIN
+  - name: VPN - Fremont, USA
+    url: $CHECK_VPN_FMT
+  - name: VPN - Manila, PH
+    url: $CHECK_VPN_MNL
+  - name: VPN - Frankfurt, DE
+    url: $CHECK_VPN_FRA
+  - name: VPN - Sydney, AU
+    url: $CHECK_VPN_SYD
+  ## Services
+  - name: Bookmarks
+    url: $CHECK_SERVICE_BOOKMARKS
+  ## Websites
   - name: gbe0.com
-    url: https://www.gbe0.com
-  - name: cp01.remote.sx
-    url: https://cp01.remote.sx
-  - name: cp02.remote.sx
-    url: https://cp02.remote.sx
-  - name: dns01.remote.sx
-    url: https://dns01.remote.sx:2087
-  - name: dns02.remote.sx
-    url: https://dns02.remote.sx:2087
-  - name: vpn-au.remote.sx
-    url: https://vpn-au.remote.sx
-  - name: vpn-uk.remote.sx
-    url: https://vpn-uk.remote.sx
-  - name: vpn-sg.remote.sx
-    url: https://vpn-sg.remote.sx
-  - name: ipsec.remote.sx
-    url: https://ipsec.remote.sx
-  - name: sysadminblog.net
-    url: https://www.sysadminblog.net
-  - name: remote.sx
-    url: https://remote.sx
+    url: https://gbe0.com
+  - name: wiki.gbe0.com
+    url: https://wiki.gbe0.com
 
 status-website:
   cname: uptime.gbe0.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime for my various servers and websites."
+  introMessage: Uptime information for gbe0.com infrastructure.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+robotsText: "User-agent: * \n Disallow: /"

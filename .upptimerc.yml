@@ -31,10 +31,6 @@ sites:
     check: "tcp-ping"
     url: $CHECK_SERVICE_KMS_IPV4
     port: $CHECK_SERVICE_KMS_PORT
-  - name: Key Management Service IPv6
-    check: "tcp-ping"
-    url: "$CHECK_SERVICE_KMS_IPV6"
-    port: $CHECK_SERVICE_KMS_PORT
   ## Websites
   - name: gbe0.com
     url: https://gbe0.com

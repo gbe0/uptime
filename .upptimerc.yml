@@ -11,6 +11,10 @@ sites:
     url: $CHECK_CPANEL_02
   - name: Docker Server 1
     url: $CHECK_DOCKER_01
+  - name: GitLab Runner 1
+    check: "tcp-ping"
+    url: $CHECK_GITLAB_RUNNER_IP
+    port: $CHECK_GITLAB_RUNNER_PORT
   ## VPN servers
   - name: VPN - Singapore, SG
     url: $CHECK_VPN_SIN

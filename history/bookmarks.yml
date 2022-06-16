@@ -1,7 +1,7 @@
 url: $CHECK_SERVICE_BOOKMARKS
-status: down
-code: 403
-responseTime: 126
-lastUpdated: 2022-06-16T20:53:19.602Z
+status: up
+code: 200
+responseTime: 448
+lastUpdated: 2022-06-16T21:16:53.919Z
 startTime: Tue Jun 14 2022 13:07:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

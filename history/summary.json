@@ -76,9 +76,9 @@
     "url": "$CHECK_VPN_SIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-singapore-sg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 811,
     "timeMonth": 811,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "VPN - Fremont, USA",

@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-singapore-sg",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.90%",
     "uptimeDay": "85.47%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "96.80%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "96.90%",
     "time": 833,
     "timeDay": 934,
     "timeWeek": 833,
@@ -96,9 +96,9 @@
     "url": "$CHECK_VPN_FMT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-fremont-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-19": 0
+    }
   },
   {
     "name": "VPN - Manila, PH",

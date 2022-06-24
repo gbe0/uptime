@@ -25,8 +25,6 @@ sites:
   ## Services
   - name: Bookmarks
     url: $CHECK_SERVICE_BOOKMARKS
-  - name: Accounting
-    url: $CHECK_SERVICE_ACCOUNTING
   - name: Key Management Service IPv4
     check: "tcp-ping"
     url: $CHECK_SERVICE_KMS_IPV4

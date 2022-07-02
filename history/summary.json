@@ -166,18 +166,20 @@
     "url": "$CHECK_SERVICE_BOOKMARKS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bookmarks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 654,
-    "timeWeek": 410,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "time": 399,
+    "timeDay": 392,
+    "timeWeek": 386,
+    "timeMonth": 399,
+    "timeYear": 399,
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   },
   {
     "name": "Key Management Service IPv4",
@@ -202,35 +204,39 @@
     "url": "https://gbe0.com",
     "icon": "https://favicons.githubusercontent.com/gbe0.com",
     "slug": "gbe0-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 223,
-    "timeWeek": 169,
-    "timeMonth": 242,
-    "timeYear": 588,
-    "dailyMinutesDown": {}
+    "time": 641,
+    "timeDay": 149,
+    "timeWeek": 161,
+    "timeMonth": 239,
+    "timeYear": 587,
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   },
   {
     "name": "wiki.gbe0.com",
     "url": "https://wiki.gbe0.com",
     "icon": "https://favicons.githubusercontent.com/wiki.gbe0.com",
     "slug": "wiki-gbe0-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 190,
-    "timeWeek": 179,
-    "timeMonth": 613,
-    "timeYear": 613,
-    "dailyMinutesDown": {}
+    "time": 598,
+    "timeDay": 129,
+    "timeWeek": 170,
+    "timeMonth": 598,
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   }
 ]

@@ -132,9 +132,9 @@
     "url": "$CHECK_VPN_FRA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-frankfurt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.80%",
+    "uptimeDay": "93.78%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.87%",
@@ -144,6 +144,7 @@
     "timeMonth": 515,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2022-08-02": 0,
       "2022-08-01": 89
     }
   },
@@ -174,12 +175,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 427,
     "timeDay": 458,
     "timeWeek": 458,
-    "timeMonth": 449,
+    "timeMonth": 463,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2022-07-02": 22
@@ -210,14 +211,14 @@
     "slug": "gbe0-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 590,
-    "timeDay": 173,
+    "timeDay": 199,
     "timeWeek": 202,
-    "timeMonth": 194,
+    "timeMonth": 199,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2022-08-01": 30,
@@ -233,12 +234,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 410,
     "timeDay": 237,
     "timeWeek": 219,
-    "timeMonth": 202,
+    "timeMonth": 208,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2022-07-02": 22

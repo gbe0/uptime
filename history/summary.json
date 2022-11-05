@@ -160,9 +160,9 @@
     "url": "$CHECK_VPN_SYD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-sydney-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,7 +171,9 @@
     "timeWeek": 706,
     "timeMonth": 777,
     "timeYear": 771,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-05": 0
+    }
   },
   {
     "name": "Bookmarks",

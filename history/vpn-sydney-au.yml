@@ -1,7 +1,7 @@
 url: $CHECK_VPN_SYD
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2023-01-12T23:04:25.418Z
+status: down
+code: 502
+responseTime: 824
+lastUpdated: 2023-01-13T11:51:33.946Z
 startTime: Tue Jun 14 2022 13:07:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $CHECK_VPN_SIN
-status: up
-code: 200
-responseTime: 790
-lastUpdated: 2023-01-12T23:04:22.282Z
+status: down
+code: 502
+responseTime: 1011
+lastUpdated: 2023-01-13T11:51:20.864Z
 startTime: Tue Jun 14 2022 13:06:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

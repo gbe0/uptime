@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2023-05-17": 726,
+      "2023-05-17": 739,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -163,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-05-17": 726,
+      "2023-05-17": 739,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -308,9 +308,9 @@
     "slug": "docker-server-1",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
     "timeDay": 141,
@@ -318,7 +318,6 @@
     "timeMonth": 206,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-05-17": 10,
       "2022-10-22": 32
     }
   },
@@ -357,7 +356,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-05-17": 726,
+      "2023-05-17": 739,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -452,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2023-05-17": 726,
+      "2023-05-17": 739,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -623,19 +622,19 @@
     "url": "$CHECK_SERVICE_BOOKMARKS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bookmarks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 452,
-    "timeDay": 481,
-    "timeWeek": 470,
+    "timeDay": 467,
+    "timeWeek": 468,
     "timeMonth": 451,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-05-17": 9,
+      "2023-05-17": 22,
       "2023-01-07": 15,
       "2022-10-22": 32,
       "2022-07-02": 22
@@ -648,9 +647,9 @@
     "slug": "key-management-service-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 42,
     "timeDay": 23,
@@ -658,7 +657,6 @@
     "timeMonth": 52,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2023-05-17": 7,
       "2022-10-22": 32
     }
   },
@@ -669,9 +667,9 @@
     "slug": "gbe0-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 312,
     "timeDay": 170,
@@ -679,7 +677,6 @@
     "timeMonth": 189,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-05-17": 6,
       "2023-03-02": 16,
       "2022-10-22": 32,
       "2022-08-01": 30,
@@ -693,9 +690,9 @@
     "slug": "wiki-gbe0-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
     "timeDay": 157,
@@ -703,7 +700,6 @@
     "timeMonth": 168,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-05-17": 4,
       "2022-10-22": 32,
       "2022-07-02": 22
     }

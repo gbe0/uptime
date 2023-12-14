@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2023-12-14": 20,
+      "2023-12-14": 24,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -361,14 +361,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.30%",
+    "uptimeYear": "5.29%",
     "time": 778,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2023-12-14": 20,
+      "2023-12-14": 24,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -772,7 +772,7 @@
     "timeMonth": 0,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2023-12-14": 21,
+      "2023-12-14": 24,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -1078,7 +1078,7 @@
     "timeMonth": 0,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-12-14": 21,
+      "2023-12-14": 24,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -1363,7 +1363,7 @@
     "timeMonth": 0,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2023-12-14": 21,
+      "2023-12-14": 24,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -1568,9 +1568,9 @@
     "url": "$CHECK_SERVICE_KMS_IPV4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "key-management-service-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1579,7 +1579,9 @@
     "timeWeek": 36,
     "timeMonth": 37,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "gbe0.com",

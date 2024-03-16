@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1219,
-    "timeDay": 1145,
-    "timeWeek": 1105,
-    "timeMonth": 1070,
-    "timeYear": 1159,
+    "timeDay": 929,
+    "timeWeek": 1049,
+    "timeMonth": 1068,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2023-11-04": 495
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-panel-server-1",
     "status": "down",
-    "uptime": "37.08%",
+    "uptime": "37.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 20,
+      "2024-03-16": 19,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -399,8 +400,7 @@
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 1440
+      "2023-03-18": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-panel-server-2",
     "status": "down",
-    "uptime": "31.56%",
+    "uptime": "31.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 774,
+    "time": 776,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 20,
+      "2024-03-16": 19,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -783,8 +784,7 @@
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 1440
+      "2023-03-18": 1440
     }
   },
   {
@@ -799,9 +799,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 187,
-    "timeWeek": 211,
-    "timeMonth": 205,
+    "timeDay": 28,
+    "timeWeek": 174,
+    "timeMonth": 199,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -817,10 +817,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 830,
-    "timeDay": 691,
-    "timeWeek": 713,
-    "timeMonth": 692,
-    "timeYear": 787,
+    "timeDay": 526,
+    "timeWeek": 685,
+    "timeMonth": 687,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2023-08-06": 35
     }
@@ -831,7 +831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-fremont-usa",
     "status": "down",
-    "uptime": "41.09%",
+    "uptime": "41.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -842,7 +842,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 20,
+      "2024-03-16": 19,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -1205,8 +1206,7 @@
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 1440
+      "2023-03-18": 1440
     }
   },
   {
@@ -1215,18 +1215,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-manila-ph",
     "status": "down",
-    "uptime": "51.30%",
+    "uptime": "51.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "29.60%",
-    "time": 819,
+    "time": 818,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-03-15": 20,
+      "2024-03-16": 19,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -1482,8 +1483,7 @@
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 1440
+      "2023-03-18": 1440
     }
   },
   {
@@ -1498,9 +1498,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 472,
-    "timeDay": 342,
-    "timeWeek": 375,
-    "timeMonth": 403,
+    "timeDay": 499,
+    "timeWeek": 396,
+    "timeMonth": 409,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2023-08-05": 134
@@ -1518,10 +1518,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 701,
-    "timeDay": 579,
-    "timeWeek": 587,
-    "timeMonth": 579,
-    "timeYear": 668,
+    "timeDay": 428,
+    "timeWeek": 554,
+    "timeMonth": 573,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2023-08-06": 35
     }
@@ -1532,18 +1532,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bookmarks",
     "status": "down",
-    "uptime": "55.20%",
+    "uptime": "55.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "21.52%",
-    "time": 442,
+    "uptimeYear": "21.25%",
+    "time": 441,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 433,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-03-15": 20,
+      "2024-03-16": 19,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -1846,9 +1847,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 44,
-    "timeDay": 52,
-    "timeWeek": 55,
-    "timeMonth": 45,
+    "timeDay": 2,
+    "timeWeek": 45,
+    "timeMonth": 43,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2023-12-16": 24,
@@ -1868,9 +1869,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 144,
-    "timeWeek": 191,
-    "timeMonth": 181,
+    "timeDay": 123,
+    "timeWeek": 173,
+    "timeMonth": 171,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2023-08-08": 131
@@ -1888,9 +1889,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 339,
-    "timeWeek": 207,
-    "timeMonth": 171,
+    "timeDay": 67,
+    "timeWeek": 184,
+    "timeMonth": 167,
     "timeYear": 165,
     "dailyMinutesDown": {}
   }

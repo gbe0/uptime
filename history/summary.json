@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-23": 354,
+      "2024-05-23": 362,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-23": 354,
+      "2024-05-23": 362,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -842,7 +842,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-23": 354,
+      "2024-05-23": 362,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1226,7 +1226,7 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-05-23": 354,
+      "2024-05-23": 362,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1543,7 +1543,7 @@
     "timeMonth": 0,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-05-23": 354,
+      "2024-05-23": 362,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1949,19 +1949,19 @@
     "url": "https://wiki.gbe0.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.gbe0.com.ico",
     "slug": "wiki-gbe0-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 121,
-    "timeWeek": 163,
-    "timeMonth": 172,
+    "timeDay": 145,
+    "timeWeek": 165,
+    "timeMonth": 173,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 9
     }
   }
 ]

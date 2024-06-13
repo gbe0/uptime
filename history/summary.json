@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-13": 528,
+      "2024-06-13": 536,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-13": 528,
+      "2024-06-13": 536,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -792,19 +792,19 @@
     "url": "$CHECK_DOCKER_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-server-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 187,
-    "timeWeek": 206,
-    "timeMonth": 186,
-    "timeYear": 189,
+    "timeDay": 214,
+    "timeWeek": 210,
+    "timeMonth": 188,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-13": 1
+      "2024-06-13": 8
     }
   },
   {
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-13": 528,
+      "2024-06-13": 536,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -1228,7 +1228,7 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-06-13": 528,
+      "2024-06-13": 536,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -1545,7 +1545,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-13": 528,
+      "2024-06-13": 536,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,

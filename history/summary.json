@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1164,
-    "timeDay": 1190,
-    "timeWeek": 1105,
-    "timeMonth": 1136,
+    "time": 1163,
+    "timeDay": 1077,
+    "timeWeek": 1090,
+    "timeMonth": 1130,
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2023-11-04": 495
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-panel-server-1",
     "status": "down",
-    "uptime": "30.89%",
+    "uptime": "30.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-21": 25,
+      "2024-07-22": 705,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -399,8 +400,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   },
   {
@@ -409,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-panel-server-2",
     "status": "down",
-    "uptime": "26.29%",
+    "uptime": "26.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -420,7 +420,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-21": 25,
+      "2024-07-22": 705,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -783,8 +784,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   },
   {
@@ -792,18 +792,20 @@
     "url": "$CHECK_DOCKER_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 305,
-    "timeWeek": 241,
-    "timeMonth": 218,
+    "time": 192,
+    "timeDay": 95,
+    "timeWeek": 218,
+    "timeMonth": 213,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-22": 0
+    }
   },
   {
     "name": "VPN - Singapore, SG",
@@ -817,10 +819,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 774,
-    "timeDay": 868,
-    "timeWeek": 752,
-    "timeMonth": 749,
-    "timeYear": 717,
+    "timeDay": 544,
+    "timeWeek": 702,
+    "timeMonth": 736,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2023-08-06": 35
     }
@@ -831,18 +833,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-fremont-usa",
     "status": "down",
-    "uptime": "34.24%",
+    "uptime": "34.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1593,
+    "time": 3089,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-21": 25,
+      "2024-07-22": 705,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -1205,8 +1208,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   },
   {
@@ -1215,7 +1217,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-manila-ph",
     "status": "down",
-    "uptime": "42.75%",
+    "uptime": "42.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1226,7 +1228,8 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-07-21": 25,
+      "2024-07-22": 705,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -1498,9 +1501,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 441,
-    "timeDay": 497,
-    "timeWeek": 397,
-    "timeMonth": 507,
+    "timeDay": 511,
+    "timeWeek": 408,
+    "timeMonth": 514,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2023-08-05": 134
@@ -1517,10 +1520,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 656,
-    "timeDay": 924,
-    "timeWeek": 725,
-    "timeMonth": 661,
+    "time": 655,
+    "timeDay": 445,
+    "timeWeek": 670,
+    "timeMonth": 653,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2023-08-06": 35
@@ -1532,7 +1535,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bookmarks",
     "status": "down",
-    "uptime": "45.99%",
+    "uptime": "45.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1543,7 +1546,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-21": 26,
+      "2024-07-22": 705,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -1906,8 +1910,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   },
   {
@@ -1915,18 +1918,19 @@
     "url": "$CHECK_SERVICE_KMS_IPV4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "key-management-service-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 46,
-    "timeDay": 67,
-    "timeWeek": 51,
-    "timeMonth": 50,
+    "timeDay": 2,
+    "timeWeek": 41,
+    "timeMonth": 48,
     "timeYear": 46,
     "dailyMinutesDown": {
+      "2024-07-22": 0,
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1416
@@ -1937,18 +1941,19 @@
     "url": "https://gbe0.com",
     "icon": "https://icons.duckduckgo.com/ip3/gbe0.com.ico",
     "slug": "gbe0-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 186,
-    "timeDay": 247,
-    "timeWeek": 262,
-    "timeMonth": 217,
+    "timeDay": 144,
+    "timeWeek": 199,
+    "timeMonth": 211,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2024-07-22": 0,
       "2024-07-03": 57,
       "2023-08-08": 131
     }
@@ -1958,18 +1963,19 @@
     "url": "https://wiki.gbe0.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.gbe0.com.ico",
     "slug": "wiki-gbe0-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 169,
-    "timeDay": 290,
-    "timeWeek": 201,
-    "timeMonth": 190,
+    "timeDay": 140,
+    "timeWeek": 186,
+    "timeMonth": 188,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2024-07-22": 0,
       "2024-07-03": 57
     }
   }

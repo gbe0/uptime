@@ -4,19 +4,19 @@
     "url": "$CHECK_GITLAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1096,
-    "timeDay": 1211,
-    "timeWeek": 1065,
-    "timeMonth": 1085,
-    "timeYear": 1101,
+    "timeDay": 1296,
+    "timeWeek": 1104,
+    "timeMonth": 1094,
+    "timeYear": 1102,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 33
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 95,
+      "2024-11-14": 128,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 95,
+      "2024-11-14": 128,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -842,7 +842,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 95,
+      "2024-11-14": 128,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -1226,7 +1226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 95,
+      "2024-11-14": 128,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -1639,7 +1639,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.97%",
+    "uptimeYear": "16.98%",
     "time": 1108,
     "timeDay": 1197,
     "timeWeek": 969,

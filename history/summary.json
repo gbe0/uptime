@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-22": 396,
+      "2024-11-22": 407,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-22": 396,
+      "2024-11-22": 407,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -842,7 +842,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-22": 396,
+      "2024-11-22": 407,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1226,7 +1226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-22": 396,
+      "2024-11-22": 407,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1598,19 +1598,19 @@
     "url": "$CHECK_VPN_FRA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-frankfurt-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 479,
-    "timeWeek": 425,
-    "timeMonth": 415,
+    "timeDay": 421,
+    "timeWeek": 417,
+    "timeMonth": 414,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2024-11-22": 0
+      "2024-11-22": 11
     }
   },
   {

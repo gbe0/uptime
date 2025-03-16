@@ -11,7 +11,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1100,
-    "timeDay": 930,
+    "timeDay": 1103,
     "timeWeek": 1060,
     "timeMonth": 1085,
     "timeYear": 1109,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1338,
+      "2025-03-16": 31,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -400,8 +401,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1338,
+      "2025-03-16": 31,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -784,8 +785,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -800,10 +800,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 47,
-    "timeWeek": 251,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "timeDay": 124,
+    "timeWeek": 222,
+    "timeMonth": 210,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2024-07-22": 17
     }
@@ -820,9 +820,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 556,
-    "timeWeek": 737,
-    "timeMonth": 735,
+    "timeDay": 614,
+    "timeWeek": 705,
+    "timeMonth": 737,
     "timeYear": 749,
     "dailyMinutesDown": {}
   },
@@ -832,7 +832,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-fremont-usa",
     "status": "down",
-    "uptime": "26.14%",
+    "uptime": "26.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -843,7 +843,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1338,
+      "2025-03-16": 31,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1206,8 +1207,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -1221,13 +1221,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 652,
+    "time": 658,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1338,
+      "2025-03-16": 31,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1590,8 +1591,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -1606,9 +1606,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 807,
-    "timeWeek": 481,
-    "timeMonth": 453,
+    "timeDay": 467,
+    "timeWeek": 460,
+    "timeMonth": 451,
     "timeYear": 444,
     "dailyMinutesDown": {}
   },
@@ -1624,9 +1624,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 606,
-    "timeDay": 451,
-    "timeWeek": 716,
-    "timeMonth": 617,
+    "timeDay": 490,
+    "timeWeek": 682,
+    "timeMonth": 618,
     "timeYear": 616,
     "dailyMinutesDown": {}
   },
@@ -1639,15 +1639,16 @@
     "uptime": "51.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.82%",
+    "uptimeMonth": "41.51%",
     "uptimeYear": "45.78%",
-    "time": 1026,
-    "timeDay": 685,
-    "timeWeek": 500,
-    "timeMonth": 661,
-    "timeYear": 1026,
+    "time": 1022,
+    "timeDay": 321,
+    "timeWeek": 417,
+    "timeMonth": 630,
+    "timeYear": 1022,
     "dailyMinutesDown": {
-      "2025-03-15": 1338,
+      "2025-03-16": 31,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1844,8 +1845,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -1860,9 +1860,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 2,
-    "timeWeek": 56,
-    "timeMonth": 42,
+    "timeDay": 17,
+    "timeWeek": 48,
+    "timeMonth": 43,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2024-07-22": 17
@@ -1875,14 +1875,14 @@
     "slug": "gbe0-com",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "24.77%",
-    "uptimeWeek": "54.67%",
+    "uptimeDay": "33.99%",
+    "uptimeWeek": "55.08%",
     "uptimeMonth": "41.30%",
     "uptimeYear": "94.85%",
     "time": 191,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 193,
+    "timeDay": 206,
+    "timeWeek": 196,
+    "timeMonth": 194,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-03-15": 981,
@@ -1929,9 +1929,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 113,
-    "timeWeek": 205,
-    "timeMonth": 184,
+    "timeDay": 217,
+    "timeWeek": 200,
+    "timeMonth": 186,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2024-08-06": 24,

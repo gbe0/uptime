@@ -1,7 +1,7 @@
 url: $CHECK_SERVICE_KMS_IPV4
 status: up
 code: 200
-responseTime: 2
-lastUpdated: 2025-08-17T23:05:01.739Z
+responseTime: 46
+lastUpdated: 2025-08-18T23:04:54.090Z
 startTime: 2022-06-14T13:14:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
